@@ -1,7 +1,6 @@
 {
-  "name": "input-v2",
+  "name": "newptinput",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -34,5 +33,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project is for testing purpose.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nourhan997/pt-v2inputs.git"
+  },
+  "keywords": [
+    "react",
+    "inputs",
+    "reusable"
+  ],
+  "author": "noura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nourhan997/pt-v2inputs/issues"
+  },
+  "homepage": "https://github.com/Nourhan997/pt-v2inputs#readme"
 }
